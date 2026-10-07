@@ -31,6 +31,10 @@ Final dataset: 28,410 listings across 50 neighbourhoods.
 - Price, review count and availability show almost no correlation with review score (all |r| < 0.1)
 - Forward unavailability rises from about 9% (Sep 2026) to about 32% (Apr-Jun 2027); this may include host-blocked dates
 
+![Price by room type](images/price_by_room_type.png)
+![Top neighbourhoods](images/top_neighbourhoods.png)
+![Monthly unavailability](images/monthly_unavailable.png)
+
 ## Limitations
 The calendar shows future availability, not past bookings, and unavailable days can mean booked or blocked by the host.
 
